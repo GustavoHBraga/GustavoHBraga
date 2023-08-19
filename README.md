@@ -42,36 +42,4 @@ Gosto muito de programar e desenvolver soluções eficazes usando as principais 
 
 <div style="display: inline_block"><br>
   
-### 🌱 Eu tenho atualmente conhecimento em: 
-# Devops:
-  - Jenkins
-  - Docker
-  - Docker-compose
-  - Sonarqube
-  - Quality Gate
-  - Linux
-
-# Desenvolvimento:
-- Java
-  - Spring boot
-  - Rest
-  - Jpa
-  - Flyway
-  - Tomcat
-  - Junit
-  - Mocks
-  - RestAssured
-    
-- Python
-  - Flask
-  - Sqlite3
-  - Automation
-  - Selenium
-  - Pandas
-    
-# Analise de dados e extração de dados:
-  - PowerBi
-  - Tableau
-  - BigData
-  - Sql
 </div>
